@@ -1,6 +1,6 @@
 # Movie Mingle is a mobile app for shows movies
 
-![icon_logo]()
+![icon_logo](https://github.com/user-attachments/assets/86303618-5430-4220-bfba-3a4571f0caff)
 
 ## Movie Mingle Description
 
