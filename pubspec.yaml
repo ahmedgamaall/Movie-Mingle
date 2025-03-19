@@ -72,11 +72,17 @@ dependencies:
   smooth_page_indicator: ^1.2.0+3
   # to load and cache network images. Can also be used with placeholder and error widgets.
   cached_network_image: ^3.4.1
-  zoom_tap_animation: ^1.1.0
+  # A collection of icon sets for Flutter applications.
   flutter_iconly: ^1.0.2
+  # It allows users to interactively provide ratings by tapping on stars
   animated_rating_stars: ^1.0.1
+  # Icons Launcher
   icons_launcher: ^3.0.0
+  # A build runner for Flutter
   build_runner: ^2.4.15
+  # to make an zoom animation effect similar to App Store's (ios app) items in Today tab, when you long tap on some item
+  zoom_tap_animation: ^1.1.0
+
 
 dev_dependencies:
   flutter_test:
