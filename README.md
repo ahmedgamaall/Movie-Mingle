@@ -85,7 +85,7 @@ Follow these steps to set up Storytime locally on your machine:
 
    - Open your terminal and run:
      ```bash
-     git clone https://github.com/Marwadnz4/InternIntelligence_movie_mingle.git
+     git clone https://github.com/ahmedgamaall/Movie-Mingle.git
      ```
 
 2. **Install Dependencies:**
